@@ -19,4 +19,4 @@ The baseline app rendered and accepted input, but it did not provide the lifecyc
 
 ## Live Deployment
 
-The live deployment URL will be added after the corrected application is built and deployed.
+The corrected application is available for live verification at [TrackFlow live preview](https://5173-im3f4zfe0zrlzsr01zf82-e90bf284.us3.manus.computer). This preview is served from the verified Vite app and is available while the task environment remains active.
